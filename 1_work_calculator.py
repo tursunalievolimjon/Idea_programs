@@ -1,3 +1,6 @@
+# I created this program by myself and you can calculate how you want
+# But there is a minus that you should launch this program again after you finish your calculating
+
 formula = input("How do you want to calculate: plus, minus, multiplication, division ? :")
 if formula == "plus":
     a = int(input("Enter the first number: "))

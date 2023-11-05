@@ -1,3 +1,5 @@
+# I've developed my "calculator" program
+# 
 
 while True:
     formula = input("How do you want to calculate: plus, minus, multiplication, division ? :")
