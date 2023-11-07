@@ -1,5 +1,9 @@
-# I created this program by myself and you can calculate how you want
-# But there is a minus that you should launch this program again after you finish your calculating
+# English
+# I created my first program "Calculator" and you can calculate your easy examplples and tasks in this program.
+# But there is a minus that you should launch this program again after you finish your calculating.
+# Uzbek
+# Men uzimning birinchi "Calculator" dasturimni yaratdim va siz bu dasturda sodda misollar-ni hisoblashingiz mumkun.
+# Lekin bu dasturimda bitta kamchilik bor, har-bitta hisoblashdan song dasturni qayta ishga tushurishingiz kerak boladi.
 
 formula = input("How do you want to calculate: plus, minus, multiplication, division ? :")
 if formula == "plus":

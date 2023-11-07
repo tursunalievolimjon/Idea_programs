@@ -5,3 +5,5 @@ while True:
     data = int(bugun.strftime('%Y'))
     yosh = int(input('Yoshingiz nechida?\n>>>>'))
     print('Siz',data-yosh,'yilda tug\'ilgansiz')
+    
+    input()
