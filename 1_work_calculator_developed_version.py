@@ -56,8 +56,8 @@ while True:
             print('You can enter a character instead of a word')
             input()
             print('For example, you can enter the word plus with +')
+            continue
         
-        input()
     else:
         formula = input("Qanday hisoblashni hohlaysiz: plus, minus, kopaytiruv, boluv ? :")
         if formula == "plus":
@@ -107,8 +107,8 @@ while True:
             print("Sozlar urniga belgilar kiritishingiz mumkun")
             input()
             print("Misol uchun:plus sozini + bilan")
+            continue
         
-        input()
     # Davom ettirish yoki yoq
     if til=='eng':
         turn = input('Yes/No:')
